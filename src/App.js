@@ -1,10 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import Banner from './Banner';
+
 
 function App() {
   return (
       <>
-         <h2>Hello this is anjani kumar </h2>
+       
+         <Banner/>
       </>
   );
 }

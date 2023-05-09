@@ -7,6 +7,17 @@
   pointer-events: none;
 }
 
+.Banner{
+  background-color : green;
+  height:80vh;
+
+}
+
+.banner h2 {
+  color :red;
+  font-size: 25px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
