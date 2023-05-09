@@ -8,7 +8,7 @@ const Banner = ()=>{
         <div className="container">
             <div className="row">
                 <div className="col-md-6">
-                    <img src="" alt="" />
+                    <img src="/anjani.jpg" alt="" />
                 </div>
                 <div className="col-md-6">
                     <h2>Hello THIS IS  <span>Anjani Kumar </span></h2>
